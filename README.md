@@ -70,20 +70,26 @@ Open [http://localhost:3002](http://localhost:3002) to view it in the browser.
 
 ## Screenshots
 
-All Tasks:
+**All Tasks:**
+
 ![All Tasks](https://github.com/marktaylor007/GitItDone/blob/131b38fed1a62637a065407dad046eb9305bfb8b/README_screenshots/All.jpg "All Tasks")
 
-Done Tasks (filtered):
+**Done Tasks (filtered):**
+
 ![Done Tasks](https://github.com/marktaylor007/GitItDone/blob/131b38fed1a62637a065407dad046eb9305bfb8b/README_screenshots/Done.jpg "Done Tasks")
 
-Incomplete Tasks (filtered):
+**Incomplete Tasks (filtered):**
+
 ![Incomplete Tasks](https://github.com/marktaylor007/GitItDone/blob/131b38fed1a62637a065407dad046eb9305bfb8b/README_screenshots/NotDone.jpg "Incomplete Tasks")
 
-Edit Drawer:
+**Edit Drawer:**
+
 ![Edit Drawer](https://github.com/marktaylor007/GitItDone/blob/131b38fed1a62637a065407dad046eb9305bfb8b/README_screenshots/EditDrawer.jpg "Edit Drawer")
 
-Stats:
+**Stats:**
+
 ![Stats](https://github.com/marktaylor007/GitItDone/blob/131b38fed1a62637a065407dad046eb9305bfb8b/README_screenshots/Stats.jpg "Stats")
 
-Edit Drawer:
+**About:**
+
 ![About](https://github.com/marktaylor007/GitItDone/blob/131b38fed1a62637a065407dad046eb9305bfb8b/README_screenshots/About.jpg "About")
