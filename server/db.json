@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "task": "Install Garuda Linux distro on Tyson's laptop",
+    "description": "This needs to be done before Tyson leaves June 7th",
+    "handNotes": "",
+    "isDone": true
+  },
+  {
+    "id": 2,
+    "task": "Pick up my tuxedo from Harry's Place Men's Wear",
+    "description": "Pick up my tuxedo for Tom's wedding Sunday the 28th of June",
+    "handNotes": "",
+    "isDone": false
+  },
+  {
+    "id": 3,
+    "task": "Get hotel and plane tix for Node Congress 2026",
+    "description": "Should have been on this already. Amsterdam isn't exactly down the street.",
+    "handNotes": "",
+    "isDone": false
+  }
+]
